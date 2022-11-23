@@ -83,9 +83,9 @@ const dataportfolio = [{
         link: "https://aman-nft-collection.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://live.staticflickr.com/65535/52519473113_52d74721ca_b.jpg",
+        desctiption: "Launched my own ICO ",
+        link: "https://ico-swart-phi.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
