@@ -1,10 +1,9 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+A simple portfolio template for developer/designers by Aman faridi. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://kronozz1.github.io/portfolio/)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
 
 ### Features
 
@@ -14,24 +13,11 @@ A simple portfolio template for developer/designers built with React.
 - React-Bootstrap
 - Edit Content From One Place
 
-### Setup
 
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
 
 ### More
 
-Modify pages content in  `src/content_option.js`.
+
 
 ### Thanks
 
