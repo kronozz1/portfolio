@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Aman Faridi",
     animated: {
-        first: "I love coding",
-        second: "I code cool smart contracts",
-        third: "I develop Crypto currencies , NFT's",
+        first: "It's all about the ownership!",
+        second: "Dev of the Decentralized World",
+        third: "I develop Crypto currencies , NFT's , Defi , ICO , IDO , Decentralized Marketplace and more....",
     },
     description: "I am a highly skilled individual who can efficiently code for designing, developing and testing blockchain applications.",
     your_img_url: "https://live.staticflickr.com/65535/52514232196_a818498d72_b.jpg",
