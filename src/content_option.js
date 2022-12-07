@@ -88,8 +88,8 @@ const dataportfolio = [{
         link: "https://ico-swart-phi.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://kronozz1.github.io/",
+        desctiption: "Launched my own NFT Market Place",
         link: "#",
     },
     {
