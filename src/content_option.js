@@ -88,9 +88,9 @@ const dataportfolio = [{
         link: "https://ico-swart-phi.vercel.app/",
     },
     {
-        img: "https://kronozz1.github.io/",
+        img: "https://kronozz1.github.io/marketplace",
         desctiption: "Launched my own NFT Market Place",
-        link: "#",
+        link: "https://live.staticflickr.com/65535/52547620872_ea069f395d_b.jpg",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
